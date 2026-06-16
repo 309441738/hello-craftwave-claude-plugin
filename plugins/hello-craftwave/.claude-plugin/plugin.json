@@ -1,0 +1,8 @@
+{
+  "name": "hello-craftwave",
+  "description": "Hello Craftwave —— 由匠播 Craftwave 一键发布的Skill。",
+  "version": "0.1.0",
+  "author": {
+    "name": "craftwave"
+  }
+}
